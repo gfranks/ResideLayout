@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ResideLayout">
+        <attr name="rl_rotateWhenOffset" format="boolean" />
+        <attr name="rl_dimWhenOffset" format="boolean" />
+        <attr name="rl_rotateBy" format="integer" />
+        <attr name="rl_overhangDistance" format="integer" />
+        <attr name="rl_displayShadowLayer" format="boolean" />
+    </declare-styleable>
+</resources>
